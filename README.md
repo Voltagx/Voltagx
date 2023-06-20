@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Voltagx
-- 👀 I’m interested in ... Skiing
-- 🌱 I’m currently learning ... Video game development in Unity
-- 📫 How to reach me ... ```https://linktr.ee/ttv_voltagx_```
+Owner of storeX & storeXboosts
+- discord.gg/storeX
+- discord.gg/storeXboosts
 
 <!---
 Voltagx/Voltagx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
