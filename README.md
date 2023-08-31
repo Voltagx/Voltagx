@@ -1,6 +1,5 @@
-Owner of storeX & storeXboosts
+Owner of storeX
 - discord.gg/storeX
-- discord.gg/storeXboosts
 
 <!---
 Voltagx/Voltagx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
